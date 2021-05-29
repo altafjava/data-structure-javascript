@@ -1,0 +1,13 @@
+body {
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+#root{
+  display: flex;
+  flex-direction: column;
+}
+.program-output{
+  margin: 0 3rem 0 1rem;
+  display: flex;
+  justify-content: space-between;
+}
